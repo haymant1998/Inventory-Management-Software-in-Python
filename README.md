@@ -16,11 +16,12 @@ Steps to run:
 1) Create a database named 'ims' in phpmyadmin and now import ims.sql file that is provided in this repository.
 2) Run stock_login.py file from your terminal or command prompt.
 3) Enter login id and password (default id is admin and password is admin)
---------------------------------------------------------You are good to go ---------------------------------------------------
+
+---------------------------You are good to go -----------------------------------
 
 Important Note:-
 My mysql username is root and password is NULL and hostname is localhost. So, Make sure you change your settings according to your own username, password and hostname in all the three python files which otherwise would generate an error.
 
 Feel free to contact me at haymant_1998@outlook.com
 
---------------------------------------------------------Hope it works---------------------------------------------------------
+---------------------------Hope it works-----------------------------------------
